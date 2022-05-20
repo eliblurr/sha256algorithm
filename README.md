@@ -21,3 +21,7 @@ I built this using create-react-app. If you want to play with it, just install j
 and start local server:
 
 `npm start`
+
+see step by step guide here:
+https://www.youtube.com/watch?v=f9EbD6iY9zI&list=PLQk2yIFFx_4G1g0YSk0nt2_ORslCY2SfG&index=7
+[@author](https://www.youtube.com/c/learnmeabitcoin)
